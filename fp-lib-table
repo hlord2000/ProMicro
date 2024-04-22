@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ProMicro")(type "KiCad")(uri "${KIPRJMOD}/lib/ProMicro.pretty")(options "")(descr ""))
+)
